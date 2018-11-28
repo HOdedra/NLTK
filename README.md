@@ -1,6 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+# Natural Language Processing
+
+Experiment using NLTK package with Python. Repository Includes scripts written to help with the initial learning of NLTK and the basic concepts of Lexicons etc. 
+Will try and implement the techniques learnt to apply it to the Brexit Deal Vote with sentiment data obtained from MPs using twitter.  
